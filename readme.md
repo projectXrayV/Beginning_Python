@@ -1,3 +1,1 @@
-checking this out
-
-check that out
+This is an experimental GitHub account. I've been working on getting things together so that I can collaborate with friends
